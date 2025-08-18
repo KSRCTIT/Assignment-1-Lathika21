@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class Temperature
 {
     static void Main()
     {
